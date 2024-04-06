@@ -6,7 +6,7 @@ Simulação de API usando Node e Express.
 
 - baixe node;
 - baixe a pasta;
-- dentro do terminal digite npm i;
+- dentro do terminal da pasta do projeto digite npm i;
 - rode npm start;
 - abra o postman para usar a api temos um CRUD sendo:
 
